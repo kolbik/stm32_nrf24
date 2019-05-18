@@ -56,9 +56,9 @@
 #include <string.h>
 #include "nrf24l01.h"
 
-//#define LCD_ENABLE
-//#define RECEIVER
-#define TRANSMITER
+#define LCD_ENABLE
+#define RECEIVER
+//#define TRANSMITER
 
 /* USER CODE END Includes */
 
