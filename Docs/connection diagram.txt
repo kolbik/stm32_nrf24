@@ -1,0 +1,37 @@
+stm32board       NRF24L01
+JP4
+
+1. PB11
+2. PB10
+3.
+4.
+5. PA7           pin6 MOSI 
+6. PA6           pin7 MISO
+7. PA5           pin5 SCK
+8. PA4           pin3 CE
+9. PA3           pin4 CSN
+10.
+
+JP3
+
+1. GND           pin1 GND
+2. VCC3.3        pin2 VCC
+
+
+
+stm32board       button
+JP4
+
+16. PB8			 pin button
+17. GND          gnd button
+
+
+stm32board       ledboard
+PB12  
+
+
+stm32board       lcd1306
+JP3
+                 
+4.PB6				 SCL
+3.PB7				 SDA
